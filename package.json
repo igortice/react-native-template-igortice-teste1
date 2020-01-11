@@ -1,4 +1,15 @@
 {
   "name": "react-native-template-igortice-teste1",
-  "version": "0.0.2"
+  "version": "0.0.3",
+  "description": "Template para projetos em React Native, com Estrutura de Pastas customizada, Estilos Globais, ESLint + Prettier + Babel Plugin Root Import, React Navigation, Redux, Redux Saga, Reactotron e Axios configurados.",
+  "keywords": [
+    "react-native"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igortice/react-native-template-igortice-teste1.git"
+  },
+  "homepage": "https://github.com/igortice/react-native-template-igortice-teste1",
+  "author": "Igor Rocha <igortice@gmail.com>",
+  "license": "MIT"
 }
